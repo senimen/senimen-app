@@ -6,7 +6,7 @@
     "message": "Қосымшаны әрі қарай пайдалану үшін соңғы нұсқасын орнатыңыз."
   },
   "download": {
-    "url": "https://dl.senimen.app/senimen.apk",
+    "url": "https://github.com/material-components/material-components-android/releases/download/1.14.0-alpha09/catalog-debug.apk",
     "size_mb": "0 MB"
   }
 }
