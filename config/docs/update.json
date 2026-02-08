@@ -1,1 +1,12 @@
-{}
+{
+  "app_version": "1.0",
+  "app_version_code": "DEV",
+  "info": {
+    "title": "Жаңа нұсқа қолжетімді",
+    "message": "Қосымшаны әрі қарай пайдалану үшін соңғы нұсқасын орнатыңыз."
+  },
+  "download": {
+    "url": "https://dl.senimen.app/senimen.apk",
+    "size_mb": "0 MB"
+  }
+}
